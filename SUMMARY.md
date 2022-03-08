@@ -4,8 +4,8 @@
 
 ## Guides
 
-* [Coming soon...](guides/coming-soon....md)
+* [Coming soon...](guides/creating-your-first-project.md)
 
 ## Extras
 
-* [Developers](extras/developers.md)
+* [Developers](extras/keyboard-shortcuts.md)

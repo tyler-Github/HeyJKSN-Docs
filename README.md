@@ -1,6 +1,8 @@
 # Bonfire
 
+Go subscribe to HeyJKSN and support the project.
 
+{% embed url="https://www.youtube.com/c/HeyJKSN" %}
 
 {% hint style="info" %}
 **Good to know:** Bonfire is still in development.
@@ -8,6 +10,6 @@
 
 
 
-{% content-ref url="guides/coming-soon....md" %}
-[coming-soon....md](guides/coming-soon....md)
+{% content-ref url="guides/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
