@@ -8,7 +8,7 @@ Go subscribe to HeyJKSN and support the project.
 **Good to know:** Bonfire is still in development.
 {% endhint %}
 
-
+{% embed url="https://www.heyjksn.tk" %}
 
 {% content-ref url="guides/creating-your-first-project.md" %}
 [creating-your-first-project.md](guides/creating-your-first-project.md)
